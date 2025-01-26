@@ -201,6 +201,7 @@
   date: 2022-09-10
   authors:
     - ted-at-openai
+    - dwigg-openai
   tags:
     - completions
     - embeddings
@@ -1775,7 +1776,7 @@
   path: examples/evaluation/How_to_evaluate_LLMs_for_SQL_generation.ipynb
   date: 2024-01-23
   authors:
-    - colin-jarvis
+    - colin-openai
   tags:
     - guardrails
 
